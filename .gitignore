@@ -1,7 +1,11 @@
 *.replit
+<<<<<<< HEAD
 *.Class
 *.Jar
 #!**/*.cpp
+=======
+!**/*.cpp
+>>>>>>> 707d11e4842d2f298a6dbb59ce0e1a12050585f1
 !**/*.dart
 !**/*.go
 !**/*.java
